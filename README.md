@@ -1,4 +1,4 @@
-# JsonPowerDB
+# formExample
 ## This is an example of a web application contianing a form made in netbeans with the help of JasonPowerDB.
 ### Benefits of using JsonPowerDB
 - Simplest way to retrieve data in a JSON format.
